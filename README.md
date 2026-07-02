@@ -344,15 +344,22 @@ Testing on completely unseen images helps verify whether the model has learned m
 
 # 📈 Visualizations
 
-The project also includes:
+### Training Performance
+<p align="center">
+  <img src="results/accuracy_curve.png" width="45%" alt="Training Accuracy" />
+  <img src="results/loss_curve.png" width="45%" alt="Training Loss" />
+  <img src="results/precision_curve.png" width="45%" alt="Training Precision" />
+  <img src="results/recall_curve.png" width="45%" alt="Training Recall" />
+  <img src="results/auc_curve.png" width="45%" alt="Training AUC" />
+</p>
 
-- Training Accuracy Curve
-- Training Loss Curve
-- Precision Curve
-- Recall Curve
-- ROC Curve
-- Precision–Recall Curve
-- Confusion Matrix
+### Evaluation Curves
+<p align="center">
+  <img src="results/roc_curve.png" width="45%" alt="ROC Curve" />
+  <img src="results/confusion_matrix.png" width="45%" alt="Confusion Matrix" />
+  <img src="results/precision_recall_curve.png" width="45%" alt="Precision-Recall Curve" />
+</p>
+
 
 These visualizations provide a deeper understanding of model learning and performance.
 
