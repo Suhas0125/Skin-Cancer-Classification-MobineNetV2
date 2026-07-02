@@ -344,21 +344,31 @@ Testing on completely unseen images helps verify whether the model has learned m
 
 # 📈 Visualizations
 
-### Training Performance
-<p align="center">
-  <img src="results/accuracy_curve.png" width="45%" alt="Training Accuracy" />
-  <img src="results/loss_curve.png" width="45%" alt="Training Loss" />
-  <img src="results/precision_curve.png" width="45%" alt="Training Precision" />
-  <img src="results/recall_curve.png" width="45%" alt="Training Recall" />
-  <img src="results/auc_curve.png" width="45%" alt="Training AUC" />
-</p>
+All performance and evaluation plots are standardized to identical dimensions and organized by analytical phase.
 
-### Evaluation Curves
-<p align="center">
-  <img src="results/roc_curve.png" width="45%" alt="ROC Curve" />
-  <img src="results/confusion_matrix.png" width="45%" alt="Confusion Matrix" />
-  <img src="results/precision_recall_curve.png" width="45%" alt="Precision-Recall Curve" />
-</p>
+### 📊 Training History & Performance Metrics
+
+| 1. Training Accuracy | 2. Training Loss |
+| :---: | :---: |
+| <img src="results/accuracy.png" width="380" height="280" alt="Training Accuracy" /> <br> **Accuracy Curve** | <img src="results/loss.png" width="380" height="280" alt="Training Loss" /> <br> **Loss Curve** |
+
+| 3. Precision Metrics | 4. Recall Metrics |
+| :---: | :---: |
+| <img src="results/precision.png" width="380" height="280" alt="Training Precision" /> <br> **Precision Curve** | <img src="results/recall.png" width="380" height="280" alt="Training Recall" /> <br> **Recall Curve** |
+
+| 5. Area Under Curve (AUC) | |
+| :---: | :---: |
+| <img src="results/auc.png" width="380" height="280" alt="Training AUC" /> <br> **AUC Train Curve** | |
+
+### 🔍 Diagnostic & Evaluation Curves
+
+| 6. ROC Curve | 7. Precision-Recall Curve |
+| :---: | :---: |
+| <img src="results/roc_curve.png" width="380" height="280" alt="ROC Curve" /> <br> **ROC Curve** | <img src="results/precision_recall_curve.png" width="380" height="280" alt="Precision-Recall Curve" /> <br> **PR Curve** |
+
+| 8. Confusion Matrix | |
+| :---: | :---: |
+| <img src="results/confusion_matrix.png" width="380" height="280" alt="Confusion Matrix" /> <br> **Confusion Matrix** | |
 
 
 These visualizations provide a deeper understanding of model learning and performance.
