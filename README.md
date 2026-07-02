@@ -329,15 +329,15 @@ Testing on completely unseen images helps verify whether the model has learned m
 
 ---
 
-# 📊 Results
+## 📈 Evaluation Metrics
 
-| Metric | Score |
-|---------|-------|
-| Accuracy | 83.94% |
-| Precision | 84.89% |
-| Recall | 78.67% |
-| F1 Score | 0.8166 |
-| ROC-AUC | 0.9056 |
+| Metric | Validation Score | Test Score (Final) |
+| :--- | :---: | :---: |
+| **Accuracy** | 81.21% | 83.94% |
+| **Precision** | 84.38% | 84.89% |
+| **Recall (Sensitivity)** | 72.00% | 78.67% |
+| **F1-Score** | 0.7769 | 0.8166 |
+| **ROC-AUC** | 0.8944 | 0.9056 |
 
 
 ---
