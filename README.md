@@ -428,7 +428,7 @@ Skin-Cancer-Classification/
 ├── notebooks/
 │   └── Skin_Cancer_Classification.ipynb
 │
-├── model/
+├── models/
 │   └── skin_cancer_mobilenetv2.keras
 │
 ├── results/
