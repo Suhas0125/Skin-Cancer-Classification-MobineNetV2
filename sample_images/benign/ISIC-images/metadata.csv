@@ -1,0 +1,9 @@
+isic_id,attribution,copyright_license,age_approx,anatom_site_1,anatom_site_2,anatom_site_3,concomitant_biopsy,diagnosis_1,diagnosis_2,diagnosis_3,diagnosis_4,diagnosis_5,image_type,melanocytic,sex
+ISIC_0000010,Anonymous,CC-0,35,Trunk,Posterior trunk,,False,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",dermoscopic,True,female
+ISIC_0000011,Anonymous,CC-0,35,Lower extremity,,,False,Benign,Benign melanocytic proliferations,Nevus,,,dermoscopic,True,female
+ISIC_0000012,Anonymous,CC-0,30,Trunk,Posterior trunk,,False,Benign,Benign melanocytic proliferations,Nevus,,,dermoscopic,True,male
+ISIC_0000014,Anonymous,CC-0,35,Trunk,Posterior trunk,,False,Benign,Benign melanocytic proliferations,Nevus,,,dermoscopic,True,male
+ISIC_0000015,Anonymous,CC-0,35,Trunk,Posterior trunk,,False,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",dermoscopic,True,male
+ISIC_0000016,Anonymous,CC-0,55,Trunk,Anterior trunk,Anterior abdomen,False,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",dermoscopic,True,female
+ISIC_0000017,Anonymous,CC-0,50,Trunk,Posterior trunk,,False,Benign,Benign melanocytic proliferations,Nevus,,,dermoscopic,True,female
+ISIC_0000018,Anonymous,CC-0,30,Trunk,Posterior trunk,,False,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",dermoscopic,True,male
